@@ -77,6 +77,4 @@ bacterial-gc-orf-demo/
 - Add tests for `gc_percent`, `reverse_complement` and `find_orfs`
 - Compare the ORFs found here with Prodigal's predictions
 
-## Author
-
-[Your name] - MSc Microbiology, learning bioinformatics
+## Author, Seeker,learning bioinformatics
